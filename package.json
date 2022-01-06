@@ -1,0 +1,21 @@
+{
+  "name": "honeypot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "abi-decoder": "^2.4.0",
+    "axios": "^0.24.0",
+    "big-number": "^2.0.0",
+    "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.5.2",
+    "web3": "^1.6.1",
+    "web3-utils": "^1.6.1"
+  }
+}
